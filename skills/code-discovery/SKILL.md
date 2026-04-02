@@ -1,6 +1,6 @@
 ---
 name: code-discovery
-description: File discovery workflow for beads with "Files: TBD". Uses code-search-and-intelligence skill commands to find relevant files before implementation.
+description: "File discovery workflow for beads with 'Files: TBD'. Uses code-search-and-intelligence skill commands to find relevant files before implementation."
 ---
 
 # Code Discovery Skill

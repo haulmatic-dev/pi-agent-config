@@ -1,3 +1,8 @@
+---
+name: tdd-chain-validation
+description: "Validates complete TDD (Test-Driven Development) chains atomically, ensuring all phases (RED → GREEN → REFACTOR → SYNTAX) are properly implemented before marking a feature as complete."
+---
+
 # TDD Chain Validation Skill
 
 ## Overview
