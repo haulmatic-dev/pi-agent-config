@@ -23,7 +23,8 @@
     "npm:pi-web-access",
     "npm:@victor-software-house/pi-curated-themes",
     "npm:pi-digital-rust-theme",
-    "npm:@juanibiapina/pi-tokyonight"
+    "npm:@juanibiapina/pi-tokyonight",
+    "../../source-code/personal/dev-tools/config/pi"
   ],
   "defaultThinkingLevel": "medium",
   "theme": "tokyonight-moon"
