@@ -5,7 +5,7 @@
   "keywords": ["pi-package"],
   "pi": {
     "agents": ["./agents"],
-    "skills": ["./skills", "./skills/hydra"],
+    "skills": ["./skills"],
     "extensions": ["./extensions"],
     "prompts": ["./prompts"],
     "themes": ["./themes"]
