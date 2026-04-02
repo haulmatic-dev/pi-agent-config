@@ -1,0 +1,20 @@
+# Sensitive files
+auth.json
+.env
+*.key
+
+# Binary executables
+bin/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log

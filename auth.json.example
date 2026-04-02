@@ -1,0 +1,11 @@
+{
+  "kimi": {
+    "apiKey": "your-kimi-api-key-here"
+  },
+  "anthropic": {
+    "apiKey": "your-anthropic-api-key-here"
+  },
+  "openai": {
+    "apiKey": "your-openai-api-key-here"
+  }
+}
