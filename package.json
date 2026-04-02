@@ -1,0 +1,13 @@
+{
+  "name": "@haulmatic/pi-agent-config",
+  "version": "1.0.0",
+  "description": "Haulmatic pi agent configuration with agents, skills, and extensions",
+  "keywords": ["pi-package"],
+  "pi": {
+    "agents": ["./agents"],
+    "skills": ["./skills", "./skills/hydra"],
+    "extensions": ["./extensions"],
+    "prompts": ["./prompts"],
+    "themes": ["./themes"]
+  }
+}

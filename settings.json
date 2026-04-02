@@ -1,0 +1,30 @@
+{
+  "agents": [
+    "agents/codebase-researcher.md",
+    "agents/context-researcher.md",
+    "agents/git-history-analyzer.md",
+    "agents/best-practices-researcher.md",
+    "agents/library-source-reader.md",
+    "agents/domain-specialist.md"
+  ],
+  "skills": [
+    "skills/create-prd",
+    "skills/task-breakdown",
+    "skills/beads"
+  ],
+  "lastChangelogVersion": "0.64.0",
+  "defaultProvider": "kimi-coding",
+  "defaultModel": "k2p5",
+  "followUpMode": "one-at-a-time",
+  "steeringMode": "one-at-a-time",
+  "editorPaddingX": 1,
+  "packages": [
+    "npm:pi-subagents",
+    "npm:pi-web-access",
+    "npm:@victor-software-house/pi-curated-themes",
+    "npm:pi-digital-rust-theme",
+    "npm:@juanibiapina/pi-tokyonight"
+  ],
+  "defaultThinkingLevel": "medium",
+  "theme": "tokyonight-moon"
+}
