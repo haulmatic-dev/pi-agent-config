@@ -18,3 +18,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Session data (auto-generated)
+sessions/
+run-history.jsonl
